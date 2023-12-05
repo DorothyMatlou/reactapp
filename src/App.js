@@ -5,7 +5,7 @@ import Weather from "./Weather.js";
 function App() {
   return (
     <div className="App">
-      <div classname="Container">
+      <div className="Container">
         <Weather />
         <footer>
           Coded by Dorothy Maleka and it is{" "}
