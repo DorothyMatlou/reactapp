@@ -15,6 +15,10 @@ function App() {
             rel="noreferrer"
           >
             open-sourced on Github
+          </a>{" "}
+          and hosted on{" "}
+          <a href="https://imaginative-profiterole-515e63.netlify.app/">
+            Netlify
           </a>
         </footer>
       </div>
